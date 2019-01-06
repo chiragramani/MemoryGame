@@ -7,7 +7,7 @@ This repository contains resources for the Memory Game project.
 
 ## Overview
 
- My portfolio website showcasing the projects I have worked on.
+ A website where user has to guess and pair the cards shown in the grid.
 
 ## Setup
 
